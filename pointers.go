@@ -7,4 +7,5 @@ func main() {
 	sptr := &s
 	fmt.Println(s)
 	fmt.Println(sptr)
+	fmt.Println(*sptr)
 }
